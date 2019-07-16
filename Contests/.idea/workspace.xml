@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dee8e51-6060-4506-9968-c3d201282aea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/BAFO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/FATORIA2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/JPNEU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PRIMO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/QUADRAD2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/SOMA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +55,7 @@
         <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PRIMO.py" />
         <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/JPNEU.py" />
         <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1080.py" />
+        <option value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py" />
       </list>
     </option>
   </component>
@@ -115,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.IMPAR">
+  <component name="RunManager" selected="Python.URI1041">
     <configuration name="Candy-I-Contest-UFRPE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Contests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,13 +182,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="URI1041" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Contests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Candy-I-Contest-UFRPE" />
       <item itemvalue="Python.File-Name-Contest-UFRPE" />
       <item itemvalue="Python.IMPAR" />
+      <item itemvalue="Python.URI1041" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.URI1041" />
         <item itemvalue="Python.IMPAR" />
         <item itemvalue="Python.Candy-I-Contest-UFRPE" />
         <item itemvalue="Python.File-Name-Contest-UFRPE" />
@@ -217,13 +243,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539618901302</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Atualização">
+      <created>1563236345077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563236345077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="31" width="1309" height="737" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24610592" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24610592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,7 +267,7 @@
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158226" side_tool="true" weight="0.3294702" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50158226" side_tool="true" visible="true" weight="0.3289256" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3047776" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -324,6 +358,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1041.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
