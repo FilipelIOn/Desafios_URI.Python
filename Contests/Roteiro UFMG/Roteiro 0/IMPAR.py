@@ -1,3 +1,4 @@
+
 class Eletronico:
 
     def __init__(self, nome, watts):
