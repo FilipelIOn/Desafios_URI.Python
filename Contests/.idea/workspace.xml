@@ -4,6 +4,7 @@
     <list default="true" id="2dee8e51-6060-4506-9968-c3d201282aea" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/NUMEROMG.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/OVER09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAPRIMAS.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/RECUPERA.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1161.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1471.py" afterDir="false" />
@@ -11,7 +12,6 @@
       <change afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1542.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/IMPAR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1534.py" beforeDir="false" afterPath="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1534.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.URI1534">
+  <component name="RunManager" selected="Python.PAPRIMAS">
     <configuration name="NUMEROMG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Contests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PAR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="PAPRIMAS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Contests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/PAPRIMAS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,18 +167,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.URI1471" />
-      <item itemvalue="Python.PAR" />
       <item itemvalue="Python.URI1542" />
       <item itemvalue="Python.NUMEROMG" />
       <item itemvalue="Python.URI1534" />
+      <item itemvalue="Python.PAPRIMAS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PAPRIMAS" />
         <item itemvalue="Python.URI1534" />
         <item itemvalue="Python.NUMEROMG" />
         <item itemvalue="Python.URI1542" />
         <item itemvalue="Python.URI1471" />
-        <item itemvalue="Python.PAR" />
       </list>
     </recent_temporary>
   </component>
