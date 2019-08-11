@@ -59,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.PAPRIMAS">
+  <component name="RunManager" selected="Python.QUERM">
     <configuration name="NUMEROMG" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Contests" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="URI1471" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="QUERM" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Contests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/URI1471.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Roteiro UFMG/Roteiro 0/QUERM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,19 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.URI1471" />
       <item itemvalue="Python.URI1542" />
       <item itemvalue="Python.NUMEROMG" />
       <item itemvalue="Python.URI1534" />
       <item itemvalue="Python.PAPRIMAS" />
+      <item itemvalue="Python.QUERM" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.QUERM" />
         <item itemvalue="Python.PAPRIMAS" />
         <item itemvalue="Python.URI1534" />
         <item itemvalue="Python.NUMEROMG" />
         <item itemvalue="Python.URI1542" />
-        <item itemvalue="Python.URI1471" />
       </list>
     </recent_temporary>
   </component>
